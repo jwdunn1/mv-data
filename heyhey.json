@@ -1,7 +1,8 @@
 {
 	"hello": [
 		"The first stored item",
-		"The last stored element"
+		"The last stored element",
+		"Another element"
 	],
 	"hello2": "The second item is now updated"
 }
