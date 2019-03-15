@@ -1,7 +1,7 @@
 {
 	"hello": [
-		"The first",
-		"The third"
+		"The first stored item",
+		"The last stored element"
 	],
 	"hello2": "The second"
 }
