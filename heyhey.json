@@ -4,5 +4,11 @@
 		"The last stored element",
 		"Another element"
 	],
-	"hello2": "The second item is now updated"
+	"hello2": "The second item is now updated",
+	"item": [
+		"This is the first item that I created.",
+		"This is another item that is listed as number 2.",
+		"And here is another item...the third.",
+		"Finally, a fourth item."
+	]
 }
