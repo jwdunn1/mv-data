@@ -1,19 +1,12 @@
 {
 	"entry": [
 		{
-			"date": "2019-03-15",
+			"date": "2019-03-14",
 			"item": [
 				"en.wikipedia.org/wiki/Pi_Day",
-				"This is another item that is listed as number 2.",
-				"And here is another item...the third.",
-				"Finally, a fourth item."
-			]
-		},
-		{
-			"date": "2014-06-01",
-			"item": [
-				"First Item",
-				"Second"
+				"docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/structure-statement",
+				"red-gate.com/simple-talk/dotnet/net-framework/10-reasons-why-visual-basic-is-better-than-c",
+				"docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listview"
 			]
 		}
 	]
