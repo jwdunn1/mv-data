@@ -1,15 +1,12 @@
 {
-	"item": [
-		"en.wikipedia.org/wiki/Pi_Day",
-		"This is another item that is listed as number 2.",
-		"And here is another item...the third.",
-		"Finally, a fourth item."
-	],
 	"entry": [
 		{
 			"date": "2019-03-16",
 			"item": [
-				"New"
+		"en.wikipedia.org/wiki/Pi_Day",
+		"This is another item that is listed as number 2.",
+		"And here is another item...the third.",
+		"Finally, a fourth item."
 			]
 		},
 		{
